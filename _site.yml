@@ -1,0 +1,12 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "General Trend Analysis"
+      href: EDA2.html
+    - text: "Regression Analysis"
+      href: Regression.html
+output:
+  html_document:
+    theme: darkly
